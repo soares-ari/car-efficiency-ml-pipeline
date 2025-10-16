@@ -110,7 +110,7 @@ The notebook implements all major steps of an ML workflow: **data preprocessing,
 ### 👨‍💻 **Author**
 **Ariel Soares** – Full Stack Developer & Machine Learning Engineer  
 📍 Brasília, Brazil  
-🔗 [LinkedIn](https://www.linkedin.com/in/soares-ari) | [GitHub](https://github.com/soares-ari)
+🔗 [LinkedIn](https://www.linkedin.com/in/ari-soares) | [GitHub](https://github.com/soares-ari)
 
 ---
 
